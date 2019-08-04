@@ -1,0 +1,17 @@
+.vscode
+*.framework
+*.a
+
+# Mac OS X
+.DS_Store
+
+.externalNativeBuild
+
+# cscope or ctags files
+cscope.in.out
+cscope.out
+cscope.po.out
+tags
+
+node_modules
+**/*.js~
