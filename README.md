@@ -6,4 +6,4 @@ As part of the problem statement provided by Unacademy, our team, Carpe_Diem is 
 4)	Integrate it with a streaming platform.
 5)	All of the above on a live stream with a focus on reduced latency, increased frame rate and quality.
 
-![Demo] https://github.com/crazyglasses/BootstrapCarpeDIem/blob/master/final.png
+![Demo](https://github.com/crazyglasses/BootstrapCarpeDIem/blob/master/final.png)
